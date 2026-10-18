@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 this is a stash file
 my work is completed
+=======
+this is a stash file
+>>>>>>> Stashed changes
